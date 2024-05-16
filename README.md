@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">A junior level developer based in Singapore</h3>
 
-- 🔭 I’m currently working on [MyTern Backend](https://github.com/p-at-rick-sg/ga4-BE-NEW)
+- 🔭 I’m currently working on [MyTern Backend](https://github.com/p-at-rick-sg/ga4-BE-NEW) &  [MyTern Frontend](https://github.com/p-at-rick-sg/ga4-FE)
 
-- 🌱 I’m currently learning **TypeScript, React Native, React Hook Forms**
-
-- 🔭 I’m currently working on [MyTern Frontend](https://github.com/p-at-rick-sg/ga4-FE)
+- 🌱 I’m currently learning **TypeScript, React Native, React Hook Forms, Justand**
 
 - 🤝 I’m looking for help with [MyTern Front End - Styling & Formatting](https://github.com/p-at-rick-sg/ga4-FE)
 
